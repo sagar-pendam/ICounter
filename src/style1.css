@@ -1,0 +1,25 @@
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(235, 242, 255);
+    height: 100vh;
+    width: 100vw;
+    flex-direction: column;
+    gap: 80px;
+}
+
+.btn{
+    font-size: 29px;
+    padding: 0px 60px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    flex-wrap: wrap;
+    gap: 50px;
+
+    
+}
